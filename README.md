@@ -11,11 +11,11 @@
 <br />
 <br />
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=broklak&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=prasetyoadi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broklak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasetyoadi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 

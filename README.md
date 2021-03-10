@@ -1,6 +1,8 @@
 # Hi there, I'm Pras 👋
 - 📫 How to reach me: email me at [prasetyo.adi87@gmail.com][Email]
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasetyoadi" alt="budioktaviyan" /> </p>
+
 ### Connect with me!
 
 [<img align="left" alt="prasetyoadi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
@@ -8,16 +10,12 @@
 [<img align="left" alt="Prasetyo Adi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 
 <br />
-<br />
-<br />
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=prasetyoadi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=prasetyoadi&show_icons=true&theme=dracula&&hide_border=true" alt="prasetyoadi" /></p>
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasetyoadi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasetyoadi&layout=compact&theme=dracula&&hide_border=true" alt="prasetyoadi" /></p>
 
 [Email]: mailto:prasetyo.adi87@gmail.com
 [Website]: https://prasetyoadi.com/

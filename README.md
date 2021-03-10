@@ -9,13 +9,11 @@
 [<img align="left" alt="Prasetyo Adi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="Prasetyo Adi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 
-<br />
+<br/><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=prasetyoadi&show_icons=true&theme=dracula&&hide_border=true" alt="prasetyoadi" /></p>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api?username=prasetyoadi&show_icons=true&theme=dracula&&hide_border=true" alt="prasetyoadi" /></div>
 
-<br />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasetyoadi&layout=compact&theme=dracula&&hide_border=true" alt="prasetyoadi" /></p>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasetyoadi&layout=compact&theme=dracula&&hide_border=true" alt="prasetyoadi" /></div>
 
 [Email]: mailto:prasetyo.adi87@gmail.com
 [Website]: https://prasetyoadi.com/

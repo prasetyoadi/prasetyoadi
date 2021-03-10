@@ -11,9 +11,9 @@
 
 <br/><br/>
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api?username=prasetyoadi&show_icons=true&theme=dracula&&hide_border=true" alt="prasetyoadi" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api?username=prasetyoadi&count_private=true&show_icons=true&theme=dracula&hide_border=true" alt="prasetyoadi" /></div>
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasetyoadi&layout=compact&theme=dracula&&hide_border=true" alt="prasetyoadi" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasetyoadi&layout=compact&theme=dracula&hide_border=true" alt="prasetyoadi" /></div>
 
 [Email]: mailto:prasetyo.adi87@gmail.com
 [Website]: https://prasetyoadi.com/

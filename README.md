@@ -1,7 +1,7 @@
 # Hi there, I'm Pras 👋
 - 📫 How to reach me: email me at [prasetyo.adi87@gmail.com][Email]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasetyoadi" alt="budioktaviyan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasetyoadi" alt="prasetyoadi" /> </p>
 
 ### Connect with me!
 
